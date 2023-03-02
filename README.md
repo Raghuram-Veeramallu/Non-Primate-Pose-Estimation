@@ -1,4 +1,4 @@
-# Non-Primate-Pose-Estimation
+# Primate-Pose-Estimation
 
 This project aims to estimate the pose of non-human primates (monkeys) as part of the [OpenMonkeyChallenge](http://openmonkeychallenge.com). This project was taken up as the final project for CSCI 5561: Computer Vision coursework at the University of Minnesota under the guidance of [Dr. Junaed Sattar](https://cse.umn.edu/cs/junaed-sattar).  
 
